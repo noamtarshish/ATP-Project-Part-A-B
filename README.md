@@ -1,4 +1,4 @@
-# ATP-Project-Part-A-B
+# ATPProject-Part-A-B
 
 🎮 Advanced Maze Game Project (Part A + Part B)
 
